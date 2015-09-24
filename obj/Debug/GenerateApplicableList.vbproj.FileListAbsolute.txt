@@ -1,0 +1,11 @@
+C:\Users\Kenton\AppData\Local\Temporary Projects\GenerateApplicableList\bin\Debug\GenerateApplicableList.exe.config
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\bin\Debug\GenerateApplicableList.exe.config
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\obj\Debug\GenerateApplicableList.exe
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\obj\Debug\GenerateApplicableList.xml
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\obj\Debug\GenerateApplicableList.pdb
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\bin\Debug\GenerateApplicableList.exe
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\bin\Debug\GenerateApplicableList.pdb
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\bin\Debug\GenerateApplicableList.xml
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\obj\Debug\GenerateApplicableList.Resources.resources
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\obj\Debug\GenerateApplicableList.vbproj.GenerateResource.Cache
+C:\Users\Kenton\Documents\Visual Studio 2015\Projects\GenerateApplicableList\GenerateApplicableList\obj\Debug\GenerateApplicableList.vbprojResolveAssemblyReference.cache

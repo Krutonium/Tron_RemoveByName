@@ -1,0 +1,7 @@
+Characters in pattern     Matches in string
+
+?                         Any single character
+*                         Zero or more characters
+#                         Any single digit (0–9)
+[ charlist ]              Any single character in charlist
+[! charlist ]             Any single character not in charlist
